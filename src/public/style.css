@@ -1,0 +1,88 @@
+/* Familia de fontes */
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #F9F9ED;
+}
+
+.background-menu{
+    background-color: rgba(13, 19, 23, 0.925);
+    
+}
+
+
+/*estilo da logo*/
+.logo{
+    font-size:30px;
+}
+
+/*botão search*/
+.button-estilizado{
+    color: #1E7F83;
+    border: solid #1E7F83 1px;
+    border-radius:10px;
+}
+
+.button-estilizado:hover{
+    color: rgba(32, 17, 247, 0.719);
+    border: solid rgba(32, 17, 247, 0.719) 1px;
+    border-radius:10px;
+}
+
+/* nav .btn:hover{
+    color: #24239B;
+    border: solid #24239B 1px;
+    border-radius:2px;
+} */
+
+/*estilo do login*/
+#card-tamanho-login{
+    width: 52%;
+    margin: auto;
+    margin-top: 4%;
+}
+
+/*estilo do cadastro*/
+#card-tamanho-cadastro{
+    margin: auto;
+    width: 80%;
+    
+    
+}
+
+.login-background{
+    background-color: rgba(13, 19, 23, 0.884);
+}
+
+.text-menu{
+    color: white;
+    
+}
+
+.text-menu h1{
+    text-align: center;
+}
+
+/*corpo home*/
+a.news:link{
+    text-decoration: none;
+    
+}
+
+a.news{
+    padding:8px;
+    color:#1E7F83;
+    border: solid  #1E7F83 1px;
+    border-radius:5px;
+    
+}
+
+a.news:hover{
+    
+    color: rgba(32, 17, 247, 0.719);
+    border: solid rgba(32, 17, 247, 0.719) 1px;
+    border-radius:5px;
+}
+
+.title{
+    margin-bottom:10px;
+}
